@@ -1,4 +1,4 @@
 # Sims
 A GUI application to control Apple Device simulators
 
-![Image description](https://github.cloud.capitalone.com/storage/user/8974/files/bd0cbf00-95e5-11ea-91cc-0c05ba36ef8e)
+![Image description](https://user-images.githubusercontent.com/7418471/111084765-6bc1aa80-84ea-11eb-8edd-8e8a9e974b68.png)
