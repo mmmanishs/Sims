@@ -19,7 +19,7 @@ struct PushNotificationView: View {
         return simulatorController.getDevice(for: selectedSimulatorUUID)
     }
 
-    @State var applicationBundleIdentifier: String = "com.capitalone.fivexwk"
+    @State var applicationBundleIdentifier: String = ""
     @State var jsonPayload: String = "{some: 1}"
     var body: some View {
         VStack {
